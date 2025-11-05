@@ -1,26 +1,41 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Invited Talks
+Research Talks
 ------
-- *Relative Join Construction and Towers of Borel Fibrations*, Cornell Topology Seminar, Cornell University, May 2024 (coming)
-- *Relative Join Construction and Towers of Borel Fibrations*, Midwest Topology Seminar, Loyola University Chicago, March 2024
-- *Relative Join Construction and Towers of Borel Fibrations*, Topology Seminar, Indiana University Bloomington, October 2023
-- *Generalized Spaces of Quasi-invariants*, Topology Seminar, University of Virginia, May 2023
-- *Generalized Spaces of Quasi-invariants in Higher Ranks*, Workshop on Higher Structures, Penn State University, December 2022
+- **The Homotopy Theory of Categorified Hopf Modules**
+  - *QuaSy-Con III*, Iowa State University, November 2025.
+- **Quasi-flag Manifold and Moment Maps**
+  - *Topology Seminar*, University of Iowa, November, 2025.
+  - *AMS Central Sectional Meeting*, Saint Louis University, October 2025.
+  - *AMS Southeastern Sectional Meeting*, Tulane University, October 2025.
+  - *Topology Seminar*, Purdue University, September 2025.
+  - *Focus Program on Algebraic Topology In Memory of Fred Cohen*, The Fields Institute, Workshop on Homotopy Theory, July 2025.
+  - *Midwest Panorama of Geometry and Topology*, University of Iowa, Early Career Session, July 2025.
+- **Relative Join Construction and Towers of Borel Fibrations** 
+  - *Quantum Topology and Algebra Seminar*, Indiana University Bloomington, October 2024.
+  - *Representation Theory and Related Geometry: Progress and Prospects*, University of Georgia, Contributed Talk, May 2025.
+  - *Topology Seminar*, Cornell University, May 2024 
+  - *Midwest Topology Seminar*, Loyola University Chicago, March 2024
+  - *Topology Seminar*, Indiana University Bloomington, October 2023
+- **Generalized Spaces of Quasi-invariants** 
+  - *Topology Seminar*, University of Virginia, May 2023
+  - *Workshop on Higher Structures*, Penn State University, December 2022
 
 
 Expository Talks
 ------
-- *Classifying Space of Commutativity*, HoMoToPIESS Student Seminar, Cornell University, Nov 2022
-- *A Brief Introduction to Noncommutative Geometry*, Olivetti Club, Cornell University, Mar 2021
-- *What is Group Cohomology*, pretalk for Topology and Geometric Group Theory Seminar, Cornell University, December 2020
-- *Bar Constructions*, Homotopy Group Student Seminar, Cornell University, September 2020
-- *Categories of Fibrant Objects*, Homotopy Group Student Seminar, Cornell University, March 2019
-- *Categories of Cofibrant Objects*, Homotopy Group Student Seminar, Cornell University, March 2019
+- **Model Category Outside Topology**, *Quantum Topology and Algebra Seminar*, Indiana University Bloomington, April 2025.
+- **All (Categorical) Concepts are Kan Extensions**, *Math Club*, Indiana University Bloomington, October 2023.
+- **Classifying Space of Commutativity**, *HoMoToPIESS Student Seminar*, Cornell University, November 2022
+- **A Brief Introduction to Noncommutative Geometry**, *Olivetti Club*, Cornell University, March 2021
+- **What is Group Cohomology**, pretalk for *Topology and Geometric Group Theory Seminar*, Cornell University, December 2020
+- **Bar Constructions**, *Homotopy Group Student Seminar*, Cornell University, September 2020
+- **Categories of Fibrant Objects**, *Homotopy Group Student Seminar**, Cornell University, March 2019
+- **Categories of Cofibrant Objects**, *Homotopy Group Student Seminar*, Cornell University, March 2019

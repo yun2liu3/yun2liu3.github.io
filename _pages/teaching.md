@@ -9,13 +9,15 @@ author_profile: true
 
 Indiana Univeristy Bloomington
 ------
+- MATH-M330 Exploring Mathematical Ideas, *Instructor*, Fall 2025.
+- MATH-M321 Intuitive Topology, *Instructor*, Spring 2025.
 - MATH-M301 Linear Algebra with Applications, *Instructor*, Spring 2024
-- MATH-M211 Calculus I, *Instructor*, Fall 2023
+- MATH-M211 Calculus I, *Instructor*, Fall 2023, 2024
 
 
 Cornell University
 ------
-- MATH6320 Algebra II, *Teaching Assistant*, Sping 2023
+- MATH6320 Algebra II, *Teaching Assistant*, Spring 2023
 - MATH3210 Manifolds and Differential Forms, *Teaching Assistant*, Fall 2022
 - MATH3040 Prove It!, *Teaching Assistant*, Spring 2022
 - MATH1110 Calculus I, *Assistant Coordinator*, Fall 2021 
