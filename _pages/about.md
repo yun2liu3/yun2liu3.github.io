@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m **Yun Liu**, a Zorn Postdoctoral Fellow at [Indiana University Bloomington](https://math.indiana.edu/index.html). My mentor is [Ajay Ramadoss](https://math.indiana.edu/about/faculty/ramadoss-ajay.html). I received my Ph.D in Mathematics from [Cornell University](https://math.cornell.edu/) in July 2023, under the supervision of [Yuri Berest](https://math.cornell.edu/yuri-berest), and an M.S. in Computer Science from Cornell university in 2018.
+Hello! I’m **Yun Liu**, a Zorn Postdoctoral Fellow at [Indiana University Bloomington](https://math.indiana.edu/index.html). My mentor is [Ajay Ramadoss](https://math.indiana.edu/about/faculty/ramadoss-ajay.html). I received my Ph.D in Mathematics (2023) and M.S. in Computer Science (2018) from [Cornell University](https://math.cornell.edu/), under the supervision of [Yuri Berest](https://math.cornell.edu/yuri-berest).
 
 My research focuses on the intersection between homotopy theory, category theory and representation theory. I spent a considerable amount of time studying generalized equivariant cohomology of spaces equipped with compact Lie group actions. 
 Recently, I have been working on [GKM](https://link.springer.com/article/10.1007/s002220050197) spaces (in particular flag manifolds) and their relation with the algebras of quasi-invariants. 
