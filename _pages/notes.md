@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some notes, handouts, and references from expository talks I’ve given, graduate courses I’ve taken, and undergraduate courses I’ve taught. They likely contain plenty of typos and errors (which I’m not very likely to fix), so please use them with caution.
+Here are some notes, handouts, and references from graduate courses I’ve taken and undergraduate courses I’ve taught. They likely contain plenty of typos and errors (which I’m not very likely to fix), so please use them with caution.
 
-Expository Notes
+<!-- Expository Notes
 ------
 These are notes for expository talks I gave.
 - [Bar construction](../files/notes/bar-construction-YunLiu.pdf), typed notes for expository talks at Cornell Homotopy Group Student Seminar in Fall 2020. [Here](../files/notes/bar-construction-YL.pdf) is a hand-written version.
 - [Categories of Fibrant Objects](../files/notes/fibrants-YL.pdf), expository talk at Cornell Homotopy Group Student Seminar in Spring 2019.
-- [Categories of Cofibrant Objects](../files/notes/cofibrants-YL.pdf), expository talk at Cornell Homotopy Group Student Seminar in Spring 2019.
+- [Categories of Cofibrant Objects](../files/notes/cofibrants-YL.pdf), expository talk at Cornell Homotopy Group Student Seminar in Spring 2019. -->
 
 Graduate Courses
 ------

@@ -13,4 +13,6 @@ My research focuses on the intersection between homotopy theory, category theory
 
 Lately I've been teaching Intuitive Topology and Exploring Mathematical Ideas, two courses that have been as fun as (I hope) for my students! 
 
-I am coordinating outreach programs for the AWM chapter at Indiana University Bloomington, including Math Circle, Science Fest, Julia Robinson Festival, and Sonia Kovalevsky Days. 
+I am coordinating outreach programs for the AWM chapter at Indiana University Bloomington, including Math Circle, Julia Robinson Festival, Science Fest, and Sonia Kovalevsky Days. 
+
+Here is my [CV](../files/LiuYun25CV.pdf).

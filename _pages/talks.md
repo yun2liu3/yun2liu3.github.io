@@ -16,7 +16,7 @@ Research Talks
   - *AMS Central Sectional Meeting*, Saint Louis University, October 2025.
   - *AMS Southeastern Sectional Meeting*, Tulane University, October 2025.
   - *Topology Seminar*, Purdue University, September 2025.
-  - *Focus Program on Algebraic Topology In Memory of Fred Cohen*, The Fields Institute, Workshop on Homotopy Theory, July 2025.
+  - *Focus Program on Algebraic Topology In Memory of Fred Cohen*, The Fields Institute, Workshop on Homotopy Theory, July 2025. [Video](http://www.fields.utoronto.ca/talks/Quasi-flag-manifolds-and-moment-graphs).
   - *Midwest Panorama of Geometry and Topology*, University of Iowa, Early Career Session, July 2025.
 - [**Relative Join Construction and Towers of Borel Fibrations**](../files/slides/Join25Loyola-YL.pdf)
   - *Quantum Topology and Algebra Seminar*, Indiana University Bloomington, October 2024.
@@ -24,7 +24,7 @@ Research Talks
   - *Topology Seminar*, Cornell University, May 2024 
   - *Midwest Topology Seminar*, Loyola University Chicago, March 2024
   - *Topology Seminar*, Indiana University Bloomington, October 2023
-- **Generalized Spaces of Quasi-invariants** 
+<!-- - **Generalized Spaces of Quasi-invariants**  -->
   - *Topology Seminar*, University of Virginia, May 2023
   - *Workshop on Higher Structures*, Penn State University, December 2022
 
