@@ -14,7 +14,7 @@ A question that currently interests me is how to describe an explicit CW structu
 
 I am also interested in category theory and homotopy theory, especially the construction of model category structure and the explicit computation of homotopy (co)limits. I am developing a model category structure on categorified relative Hopf modules, which extends ideas from dg-categories and dg-functors.
 
-Beyond the above topics, I'm curious about functor homology, especially Hochschild homology and cyclic homology, and their generalizations for crossed simplicial groups. I have been thinking about cyclic nerves in the context of combinatorial $K$-theory, especially for polytopes and finite sets.
+Beyond the above topics, I'm curious about functor homology, especially Hochschild homology and cyclic homology, and their generalizations for crossed simplicial groups. I have been thinking about cyclic nerves in the context of combinatorial K-theory, especially for polytopes and finite sets.
 
 
 Research Projects
