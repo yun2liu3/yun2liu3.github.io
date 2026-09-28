@@ -12,13 +12,19 @@ Research Talks
 - **The Homotopy Theory of Categorified Hopf Modules**
   - *QuaSy-Con III*, Iowa State University, November 2025.
 - [**Quasi-flag Manifold and Moment Maps**](../files/slides/Quasiflag25Fields-YL.pdf)
-  - *Topology Seminar*, University of Iowa, November, 2025.
+  - *Homology and homotopy in the world of graphs*, EPFL, Lausanne, Sep 2026.
+  - *Young Topologists Meeting*, University of Copenhagen, Jun 2026.
+  - *Virginia L. Chatelain Memorial Lecture*, Kansas State University, May 2026. 
+  - *Topology Seminar*, University of Rochester, Dec 2025. 
+  - *Geometry and Topology Seminar*, University of Iowa, November, 2025.
   - *AMS Central Sectional Meeting*, Saint Louis University, October 2025.
   - *AMS Southeastern Sectional Meeting*, Tulane University, October 2025.
   - *Topology Seminar*, Purdue University, September 2025.
   - *Focus Program on Algebraic Topology In Memory of Fred Cohen*, The Fields Institute, Workshop on Homotopy Theory, July 2025. [Video](http://www.fields.utoronto.ca/talks/Quasi-flag-manifolds-and-moment-graphs).
   - *Midwest Panorama of Geometry and Topology*, University of Iowa, Early Career Session, July 2025.
 - [**Relative Join Construction and Towers of Borel Fibrations**](../files/slides/Join25Loyola-YL.pdf)
+  - *Algebra Seminar*, Kansas State University, May 2026.
+  - *QuaSy-Con III*, Iowa State University, Nov 2025.
   - *Quantum Topology and Algebra Seminar*, Indiana University Bloomington, October 2024.
   - *Representation Theory and Related Geometry: Progress and Prospects*, University of Georgia, Contributed Talk, May 2025.
   - *Topology Seminar*, Cornell University, May 2024 
@@ -31,6 +37,7 @@ Research Talks
 
 Expository Talks
 ------
+- **Model Category in Homological Algebra**, *Tianyuan Mathematical Workshop*, Zhejiang University of Technology, May 2026.
 - **Model Category Outside Topology**, *Quantum Topology and Algebra Seminar*, Indiana University Bloomington, April 2025.
 - **All (Categorical) Concepts are Kan Extensions**, *Math Club*, Indiana University Bloomington, October 2023.
 - **Classifying Space of Commutativity**, *HoMoToPIESS Student Seminar*, Cornell University, November 2022.

@@ -21,8 +21,12 @@ Education
 
 Academic Positions
 ------
+* **University of Iowa**, Iowa city, IA
+  * Postdoc Research Scholar, Jul 2026 - Jun 2029
+  * Mentor: Benjamin Cooper
+
 * **Indian University Bloomington**, Bloomington, IN 
-  * Zorn Psotdoctoral Fellow, August 2023 - present
+  * Zorn Psotdoctoral Fellow, August 2023 - May 2026
   * Mentor: Ajay Ramadosss
 
 * **Cornell University**, Ithaca, NY

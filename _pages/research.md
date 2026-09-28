@@ -16,6 +16,8 @@ I am also interested in category theory and homotopy theory, especially the cons
 
 Beyond the above topics, I'm curious about functor homology, especially Hochschild homology and cyclic homology, and their generalizations for crossed simplicial groups. I have been thinking about cyclic nerves in the context of combinatorial K-theory, especially for polytopes and finite sets.
 
+I'm also interested in formalization of higher categories, and tried to use AI to formalize partially our results in Lean4. 
+
 
 Research Projects
 ------
