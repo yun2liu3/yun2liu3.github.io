@@ -22,13 +22,12 @@ I'm also interested in formalization of higher categories, and tried to use AI t
 Research Projects
 ------
 - Topological Realization of Quasi-invariants
-  - [Quasi-flag manifolds and moment graphs](https://arxiv.org/abs/2509.23521), joint with Yuri Berest and Ajay C. Ramadoss.
-  - [Ganea decompositions of classifying spaces](https://arxiv.org/abs/2602.18682), joint with Yuri Berest and Ajay C. Ramadoss. This is the work mostly from my thesis.
+  - [Quasi-flag manifolds and moment graphs](https://arxiv.org/abs/2509.23521), joint with [Yuri Berest](https://math.cornell.edu/yuri-berest) and [Ajay C. Ramadoss](https://math.indiana.edu/about/faculty/ramadoss-ajay.html).
+  - [Ganea decompositions of classifying spaces](https://arxiv.org/abs/2602.18682), joint with [Yuri Berest](https://math.cornell.edu/yuri-berest) and [Ajay C. Ramadoss](https://math.indiana.edu/about/faculty/ramadoss-ajay.html). This is the work mostly from my thesis.
   <!-- - [Towers of Borel Fibrations and Generalized Quasi-Invariants](https://ecommons.cornell.edu/server/api/core/bitstreams/f96c1111-0271-4b6a-9aab-1c2a6dde21c0/content), thesis. -->
 
 
-- The Homotopy Theory of Relative Hopf Modules, joint with Julia Plavnik and Samarpita Ray. (In Preparation)
+- The Homotopy Theory of Relative Hopf Modules, joint with [Julia Plavnik](https://sites.google.com/view/juliaplavnik/home) and [Samarpita Ray](https://sites.google.com/view/samarpitaray/home). (In Preparation)
 
 
-- Trace Methods for Combinatorial K-Theory, joint with Sanjana Agarwal, Ramyak
-Bilas, and Michael Zheng. (In Preparation)
+- Trace Methods for Combinatorial K-Theory, joint with [Sanjana Agarwal](https://sites.google.com/iu.edu/sanjanaagarwal/), [Ramyak Bilas](https://math.indiana.edu/about/graduate-students/Bilas-Ramyak.html), and Michael Zheng. (In Preparation)

@@ -216,6 +216,13 @@ h3 { font-size: 1.3em; color: $plum; }
     display: block;
     font-size: 0.85em;
     color: $muted-text;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+      text-decoration-color: $border-color;
+      text-underline-offset: 0.15em;
+    }
   }
 
   a {
@@ -287,4 +294,8 @@ h3 { font-size: 1.3em; color: $plum; }
   margin-right: 0;
   padding-left: 0;
   padding-right: 0;
+}
+
+.page__footer footer {
+  max-width: $site-width;
 }
