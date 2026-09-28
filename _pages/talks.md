@@ -11,12 +11,12 @@ Research Talks
 ------
 - **The Homotopy Theory of Categorified Hopf Modules**
   - *QuaSy-Con III*, Iowa State University, November 2025.
-- [**Quasi-flag Manifold and Moment Maps**](../files/slides/Quasiflag25Fields-YL.pdf)
+- [**Quasi-flag Manifolds and Moment Graphs**](../files/slides/Quasiflag25Fields-YL.pdf)
   - *Homology and homotopy in the world of graphs*, EPFL, Lausanne, September 2026.
   - *Young Topologists Meeting*, University of Copenhagen, June 2026.
   - *Virginia L. Chatelain Memorial Lecture*, Kansas State University, May 2026. 
   - *Topology Seminar*, University of Rochester, December 2025. 
-  - *Geometry and Topology Seminar*, University of Iowa, November, 2025.
+  - *Geometry and Topology Seminar*, University of Iowa, November 2025.
   - *AMS Central Sectional Meeting*, Saint Louis University, October 2025.
   - *AMS Southeastern Sectional Meeting*, Tulane University, October 2025.
   - *Topology Seminar*, Purdue University, September 2025.
