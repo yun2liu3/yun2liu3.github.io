@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" class="home" role="main">
+  <section class="home__hero">
+    <div>
+      <h1 class="home__name">{{ site.author.name }}</h1>
+      <p class="home__role">{{ page.role }}</p>
+    </div>
+    <img class="home__photo" src="{{ site.author.avatar | prepend: '/images/' | prepend: base_path }}" alt="{{ site.author.name }}">
+  </section>
+
+  <div class="home__cols">
+    <section>
+      <h2>About</h2>
+      <ul class="home__list">
+        {% for item in page.about %}
+          <li>{{ item.title }}{% if item.detail %}<span>{{ item.detail }}</span>{% endif %}</li>
+        {% endfor %}
+      </ul>
+      {{ content }}
+    </section>
+
+    <section>
+      <h2>Recent papers</h2>
+      <ul class="home__list">
+        {% for paper in page.papers %}
+          <li><a href="{{ paper.url }}">{{ paper.title }}</a><span>{{ paper.detail }}</span></li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</div>
