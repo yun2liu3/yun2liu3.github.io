@@ -2,9 +2,44 @@
    SITE STYLE: Instrument Serif italic (name, headings) + EB Garamond (text, menu)
    ========================================================================== */
 
+/* fonts are served from this site (assets/fonts), so they load even where Google Fonts is blocked */
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/eb-garamond-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/eb-garamond-italic-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/instrument-serif-latin.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Instrument Serif";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/instrument-serif-italic-latin.woff2") format("woff2");
+}
+
 $plum        : #5b3a5e;
 $plum-dark   : #3e2a42;
 $muted-text  : #6b6272;
+$site-width  : 960px;  /* shared width of header and page content */
 
 html {
   font-size: 17px;
@@ -50,6 +85,7 @@ h3 { font-size: 1.3em; color: $plum; }
 }
 
 .masthead__inner-wrap {
+  max-width: $site-width;
   display: flex;
   align-items: center;
   gap: 1.5em;
@@ -118,7 +154,7 @@ h3 { font-size: 1.3em; color: $plum; }
 /* home page */
 
 #main.home {
-  max-width: 1000px;
+  max-width: $site-width;
   padding-top: 1.5em;
 }
 
@@ -237,19 +273,18 @@ h3 { font-size: 1.3em; color: $plum; }
   color: $muted-text;
 }
 
-/* inner pages: no sidebar, so center a single reading column */
+/* inner pages: no sidebar, so the content fills the same width as the header */
 
 #main:not(.home) {
-  max-width: 1000px;
+  max-width: $site-width;
 }
 
 #main:not(.home) > .archive,
 #main:not(.home) > .page {
   float: none;
-  width: auto;
-  max-width: 44rem;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+  margin-left: 0;
+  margin-right: 0;
   padding-left: 0;
   padding-right: 0;
 }
