@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /
+
   - title: "Research"
     url: /research/
 
@@ -21,8 +24,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /files/LiuYun26CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/

@@ -1,0 +1,238 @@
+/* ==========================================================================
+   SITE STYLE: Instrument Serif italic (name, headings) + EB Garamond (text, menu)
+   ========================================================================== */
+
+$plum        : #5b3a5e;
+$plum-dark   : #3e2a42;
+$muted-text  : #6b6272;
+
+html {
+  font-size: 17px;
+
+  @include breakpoint($medium) {
+    font-size: 19px;
+  }
+}
+
+body {
+  background-color: $background-color;
+}
+
+/* headings */
+
+h1, h2, h3, h4, h5, h6 {
+  font-style: italic;
+  font-weight: 400;
+  color: $plum-dark;
+}
+
+h1 { font-size: 2.2em; }
+h2 { font-size: 1.6em; color: $plum; }
+h3 { font-size: 1.3em; color: $plum; }
+
+.page__title {
+  line-height: 1.1;
+}
+
+.page__content h2 {
+  border-bottom-color: $border-color;
+}
+
+.page__content a {
+  text-decoration-color: mix($background-color, $plum, 55%);
+  text-underline-offset: 0.15em;
+}
+
+/* masthead */
+
+.masthead {
+  border-bottom-color: $border-color;
+}
+
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  font-family: $serif;
+}
+
+.masthead__name {
+  flex: none;
+  font-family: $display;
+  font-style: italic;
+  font-size: 1.45em;
+  color: $plum-dark;
+}
+
+.masthead__menu {
+  flex: 1;
+  min-width: 0;
+}
+
+.greedy-nav {
+  display: flow-root;
+  min-width: 0;
+  background: transparent;
+
+  /* keep the links clear of the overflow button when it is shown */
+  button:not(.hidden) ~ .visible-links {
+    margin-right: 3rem;
+  }
+
+  .visible-links {
+    float: right;
+
+    li:first-child {
+      font-weight: 400;
+
+      a {
+        margin-left: 1rem;
+      }
+    }
+
+    a {
+      font-variant: small-caps;
+      letter-spacing: 0.08em;
+
+      &:before {
+        display: none;
+      }
+
+      &.is-current {
+        color: $plum;
+        box-shadow: inset 0 -1px 0 $plum;
+      }
+    }
+  }
+
+  button {
+    background-color: $plum;
+  }
+
+  .hidden-links a {
+    font-variant: small-caps;
+    letter-spacing: 0.06em;
+  }
+}
+
+/* home page */
+
+#main.home {
+  max-width: 1000px;
+  padding-top: 1.5em;
+}
+
+.home__hero {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 2.5em;
+  align-items: center;
+  margin-bottom: 2.5em;
+}
+
+.home__name {
+  margin: 0 0 0.2em;
+  font-size: 4.4em;
+  line-height: 1;
+  letter-spacing: -0.01em;
+  color: $plum-dark;
+}
+
+.home__role {
+  margin: 0;
+  font-size: 1.05em;
+  color: #4a4350;
+}
+
+.home__photo {
+  display: block;
+  width: 220px;
+  height: 220px;
+  max-width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.home__cols {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 2.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid $border-color;
+
+  h2 {
+    margin: 0 0 0.6em;
+    font-size: 1.5em;
+  }
+}
+
+.home__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    margin-bottom: 0.75em;
+    line-height: 1.4;
+  }
+
+  span {
+    display: block;
+    font-size: 0.85em;
+    color: $muted-text;
+  }
+
+  a {
+    color: $plum;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+@media (max-width: 760px) {
+  .home__hero {
+    grid-template-columns: 1fr;
+    gap: 1.2em;
+  }
+
+  .home__photo {
+    order: -1;
+    width: 150px;
+    height: 150px;
+  }
+
+  .home__name {
+    font-size: 3.2em;
+  }
+
+  .home__cols {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+  }
+}
+
+/* sidebar and footer on inner pages */
+
+.sidebar p,
+.sidebar li,
+.author__urls {
+  font-family: $serif;
+}
+
+.sidebar .author__name {
+  font-family: $display;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.4em;
+  color: $plum-dark;
+}
+
+.page__footer {
+  font-family: $serif;
+  background-color: transparent;
+  border-top: 1px solid $border-color;
+  color: $muted-text;
+}

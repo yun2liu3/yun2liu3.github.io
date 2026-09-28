@@ -21,7 +21,7 @@ repository               : "yun2liu3/yun2liu3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-small.jpg"
   name             : "Yun Liu"
   pronouns         : # example: "she/her"
   bio              : "Postdoc Research Scholar"
