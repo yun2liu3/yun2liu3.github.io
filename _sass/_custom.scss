@@ -236,3 +236,20 @@ h3 { font-size: 1.3em; color: $plum; }
   border-top: 1px solid $border-color;
   color: $muted-text;
 }
+
+/* inner pages: no sidebar, so center a single reading column */
+
+#main:not(.home) {
+  max-width: 1000px;
+}
+
+#main:not(.home) > .archive,
+#main:not(.home) > .page {
+  float: none;
+  width: auto;
+  max-width: 44rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
